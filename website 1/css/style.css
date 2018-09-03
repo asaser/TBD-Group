@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+    color: #535050;
+    font-family: "Playfair Display";
+}
+
+#main-nav {
+    margin: 30px;
+}
+
+#main-nav .navbar-brand{
+    height: 40px;
+    width: 150px;
+    margin-left: 100px;
+}
+
+#main-nav .navbar-nav {
+    display: flex;
+    margin-right: 60px;
+    font-family: "Playfair Display";
+    color: #212020;
+    font-weight: bold;
+}
+
+#main-nav .navbar-nav .nav-link {
+    padding: 40px;
+}
+
+#main-header .header-content {
+    display: flex;
+    justify-content: center;
+    margin: 100px 1px 100px 1px;   
+}
+
+#photodiary .textFirst {
+    margin-top: 50px;
+}
+
+#photodiary .subheadingSecond {
+    margin: 50px 0 130px 0;
+}
+
+#lifestyle .subheadingSecond {
+    margin: 30px 0 30px 0;
+}
+
+#lifestyle .textSecond {
+    margin: 50px 70px 130px 0;   
+}
+
+#travel .subheadingThird {
+    margin: 30px 0 30px 0;    
+}
+
+#travel .textThird {
+    margin: 50px 70px 130px 0;     
+}
+
+#email {
+    position: relative;
+    background-color: #edeaea;
+    height: 30vh;
+    margin: 10px 0 100px 0;
+}
+
+#email .icon {
+    margin: 100px 130px -70px 0;
+}
+
+#email .icon .d-flex {
+    margin-right: 100px;
+}
+
+#music .subheadingFifth {
+    margin: 30px 0 30px 0;  
+}
+
+#music .textFifth {
+    margin: 50px 70px 130px 0;      
+}
+
+#button {
+    margin: 0 60px 400px 0;
+}
+
+#footer {
+    margin: 0 50px 0 50px;
+}
+
+#footer .terms {
+    list-style-type: none;
+}
+
+.subheading {
+    color: #9f8888;
+    font-family: Ubuntu;
+}
+
+
+
+
